@@ -27,7 +27,7 @@ class HelpCard extends Component {
               />
               <div className="flex flex-column flex-wrap w-40">
                 <p className="">Give us a call </p>
-                <p className="text-green-600">9876644566</p>
+                <p className="text-green-600">987-603-XXXX</p>
               </div>
             </div>
             <div className="flex flex-row m-2">
